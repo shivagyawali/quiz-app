@@ -3,8 +3,8 @@
 A new Flutter project.
 ## ScreenShots
 
-![2](screenshot/2.png)
-![result](https://user-images.githubusercontent.com/58563524/result.png)
+![2](screenshot/2.png) ![result](screenshot/result.png)
+
 
 ## Getting Started
 
