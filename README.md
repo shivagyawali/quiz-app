@@ -1,6 +1,6 @@
 # Quiz App
 
-A new Flutter project.
+A Basic Flutter project to test people perception.
 ## ScreenShots
 
 ![2](screenshot/2.png) ![result](screenshot/result.png)
